@@ -31,13 +31,13 @@
 # with this program.  If not, see <http://www.perlfoundation.org/artistic_license_1_0>.
 
 # core {{{1
-BLK                   38;5;68
-CAPABILITY            38;5;17
+BLK                   38;5;68;1
+CAPABILITY            38;5;17;1
 CHR                   38;5;113;1
-DIR                   38;5;30
-DOOR                  38;5;127
+DIR                   38;5;37;1
+DOOR                  38;5;127;1
 EXEC                  38;5;208;1
-FIFO                  38;5;126
+FIFO                  38;5;126;1
 FILE                  0
 LINK                  target
 MULTIHARDLINK         38;5;222;1
@@ -392,26 +392,26 @@ STICKY_OTHER_WRITABLE 48;5;235;38;5;139;3
 .patch                48;5;197;38;5;232;1
 #}}}
 # graphics {{{1
-.bmp                  38;5;97
-.dicom                38;5;97
-.tiff                 38;5;97
-.tif                  38;5;97
-.TIFF                 38;5;97
-.cdr                  38;5;97
-.flif                 38;5;97
-.gif                  38;5;97
-.icns                 38;5;97
-.ico                  38;5;97
-.jpeg                 38;5;97
-.JPG                  38;5;97
-.jpg                  38;5;97
-.nth                  38;5;97
-.png                  38;5;97
-.psd                  38;5;97
-.pxd                  38;5;97
-.pxm                  38;5;97
-.xpm                  38;5;97
-.webp                 38;5;97
+.bmp                  38;5;97;1
+.dicom                38;5;97;1
+.tiff                 38;5;97;1
+.tif                  38;5;97;1
+.TIFF                 38;5;97;1
+.cdr                  38;5;97;1
+.flif                 38;5;97;1
+.gif                  38;5;97;1
+.icns                 38;5;97;1
+.ico                  38;5;97;1
+.jpeg                 38;5;97;1
+.JPG                  38;5;97;1
+.jpg                  38;5;97;1
+.nth                  38;5;97;1
+.png                  38;5;97;1
+.psd                  38;5;97;1
+.pxd                  38;5;97;1
+.pxm                  38;5;97;1
+.xpm                  38;5;97;1
+.webp                 38;5;97;1
 # }}}
 # vector {{{1
 .ai                   38;5;99
